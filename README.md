@@ -1,1 +1,1 @@
-# react-theckpoint2
+# react-checkpoint2
